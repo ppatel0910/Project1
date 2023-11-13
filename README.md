@@ -1,7 +1,7 @@
 # Project1
 
 ## NYC Plots
-![NYC Rent Prices](NYC_housing.png)
+![NYC Housing Prices](NYC-housing.png)
 
 
 ![NYC Rent Prices](NYC_rental.png)
