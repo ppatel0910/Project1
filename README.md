@@ -1,4 +1,4 @@
-# Project1
+# U.S. Major City Housing/Rent/Crime Analysis
 
 ## NYC Plots
 ![NYC Housing Prices](NYC-housing.png)
