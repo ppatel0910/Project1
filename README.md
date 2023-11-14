@@ -21,17 +21,17 @@
 
 
 ## CHI Plots
-![CHI_housing](CHI_housing_prepandemic.png)
+![CHI_housing_prepandemic_bar_graph](https://github.com/ppatel0910/Project1/blob/main/visuals/CHI_housing_prepandemic.png?raw=true)
 
-![CHI_housing](CHI_housing_postpandemic.png)
+![CHI_housing_postpandemic_bar_graph](https://github.com/ppatel0910/Project1/blob/main/visuals/CHI_housing_postpandemic.png?raw=true)
 
-![CHI_rental](CHI_rental_prepandemic.png)
+![CHI_rental_price_prepandemic_bar_graph](https://github.com/ppatel0910/Project1/blob/main/visuals/CHI_rental_prepandemic.png?raw=true)
 
-![CHI_rental](CHI_rental_postpandemic.png)
+![CHI_rental_price_postpandemic_bar_graph](https://github.com/ppatel0910/Project1/blob/main/visuals/CHI_housing_postpandemic.png?raw=true)
 
-![CHI_crime](CHI_mapping.png)
+![CHI_crime](https://github.com/ppatel0910/Project1/blob/main/visuals/CHI_mapping.png?raw=true)
 
-![CHI_crime](CHI_mapping2.png)
+![CHI_crime](https://github.com/ppatel0910/Project1/blob/main/visuals/CHI_mapping2.png?raw=true)
 
 
 
@@ -39,11 +39,11 @@
 ### The average housing price in L.A. pre pandemic was $662,112 while post pandemic was $846,408 for the years we chose. As for the rent it was $2,397 pre pandemic, and $2,731 for the post pandemic. The minimum price over the years that someone would have to pay, however, was $537,563 while the max was $775,569 when buying a house before the pandemic. After the pandemic you could expect prices from $784,473 up to the max which is $923,738. On the rental side, however, it was $2,424 to $2,513 before the pandemic and $2,524 to $2,911 after the pandemic.
 
 ## LA Plots
-![LA housing](LA_housing.png)
+![LA housing](https://github.com/ppatel0910/Project1/blob/main/visuals/LA_housing.png?raw=true)
 
-![LA rental](LA_rental.png)
+![LA rental](https://github.com/ppatel0910/Project1/blob/main/visuals/LA_rental.png?raw=true)
 
-![LA rental](LA-rental2.png)
+![LA rental](https://github.com/ppatel0910/Project1/blob/main/visuals/LA-rental2.png?raw=true)
 
 ## Potential Analysis Expansion
 ### How did the economic fallout from the pandemic influence housing affordability, and were there significant changes in homeownership rates among different income brackets?
