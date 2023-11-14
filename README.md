@@ -1,11 +1,12 @@
 # U.S. Major City Housing/Rent/Crime Analysis
+
 ## Overview
 ### How did the COVID-19 pandemic affect the housing market of the three largest cities in the U.S.? 
 ### How did the COVID-19 pandemic affect the rental market of these cities?
 ### Did the COVID-19 pandemic affect crime rates in these cities?
 
 ## New York City Analysis
-### 
+### The average housing price was steadily increasing in New York City before the COVID-19 pandemic. In 2020, the year of the pandemic, average housing prices decreased but quickly rebounded in the following years. From 2021 to 2022, the average sale price increased by $264,696.46. There was a similar trend in regards to the NYC rental market. The average rent price was $2633.69 in 2017, and pre-pandemic the average rent price increased only by $100.01 from 2017 to 2019. In 2020, the rental market followed the same trend as the housing market in that the average rent price decreased to $2656.22. The year following the COVID-19 pandemic, the rental market rebounded, and is rapidly growing in price. The average rent price for 2022 was $3251.22. The difference in rent price from 2022 and 2020 is $595. The rise in rental prices is significantly higher post-pandemic than pre-pandemic. Crime in NYC was also affected by the pandemic. In 2017, the number of arrests was almost 250,000. The year of the pandemic there was an immediate drop in the number of arrests, by approximately 100,000. Post-pandemic there is a slight rise in arrests, but the number of arrests does not surpass 180,000.
 
 ## NYC Plots
 ![NYC Housing Prices](NYC-housing.png)
