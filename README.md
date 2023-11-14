@@ -33,4 +33,6 @@
 ### The average housing price in L.A. pre pandemic was $662,112 while post pandemic was $846,408 for the years we chose. As for the rent it was $2397 pre pandemic, and $2731 for the post pandemic.  The minimum price over the years that someone would have to pay, however, was $537,563 while the max was $775569 when buying a house before the pandemic. After the pandemic you could expect prices from $784473 up to the max which is $923738. On the rental side, however, it was $2424 to $2513 before the pandemic and $2524 to $2911 after the pandemic.
 
 ## LA Plots
-![NYC Housing Prices](NYC-housing.png)
+![LA housing](LA_housing.png)
+
+![LA housing](LA_rental.png)
