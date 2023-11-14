@@ -1,4 +1,8 @@
 # U.S. Major City Housing/Rent/Crime Analysis
+## Overview
+### How did the COVID-19 pandemic affect the housing market of the three largest cities in the U.S.? 
+### How did the COVID-19 pandemic affect the rental market of these cities?
+### Did the COVID-19 pandemic affect crime rates in these cities?
 
 ## New York City Analysis
 ### 
@@ -30,9 +34,19 @@
 
 
 ## Los Angeles Analysis
-### The average housing price in L.A. pre pandemic was $662,112 while post pandemic was $846,408 for the years we chose. As for the rent it was $2397 pre pandemic, and $2731 for the post pandemic.  The minimum price over the years that someone would have to pay, however, was $537,563 while the max was $775569 when buying a house before the pandemic. After the pandemic you could expect prices from $784473 up to the max which is $923738. On the rental side, however, it was $2424 to $2513 before the pandemic and $2524 to $2911 after the pandemic.
+### The average housing price in L.A. pre pandemic was $662,112 while post pandemic was $846,408 for the years we chose. As for the rent it was $2,397 pre pandemic, and $2,731 for the post pandemic. The minimum price over the years that someone would have to pay, however, was $537,563 while the max was $775,569 when buying a house before the pandemic. After the pandemic you could expect prices from $784,473 up to the max which is $923,738. On the rental side, however, it was $2,424 to $2,513 before the pandemic and $2,524 to $2,911 after the pandemic.
 
 ## LA Plots
 ![LA housing](LA_housing.png)
 
-![LA housing](LA_rental.png)
+![LA rental](LA_rental.png)
+
+![LA rental](LA-rental2.png)
+
+## Potential Analysis Expansion
+### How did the economic fallout from the pandemic influence housing affordability, and were there significant changes in homeownership rates among different income brackets?
+### Did the pandemic affect the demographics of the U.S’ three largest cities?
+### Did the rental market experience significant changes in terms of vacancy rates and tenant migration patterns in the wake of the pandemic?
+### Did COVID-19 impact school enrollment rates or school rankings?
+### How do the trends of the three cities compare to each other?
+
