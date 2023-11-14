@@ -12,9 +12,9 @@
 
 ![NYC_Housing_Prices_Bar_Graph](https://github.com/ppatel0910/Project1/blob/main/visuals/NYC-housing.png?raw=true)
 
-![NYC Rent Prices](NYC_rental.png)
+![NYC Rent Prices_Line_graph](https://github.com/ppatel0910/Project1/blob/main/visuals/NYC_rental.png?raw=true)
 
-![NYC Arrests](NYC_crime.png)
+![NYC Number_of_arrests_line_graph](https://github.com/ppatel0910/Project1/blob/main/visuals/NYC_crime.png?raw=true)
 
 ## Chicago Analysis
 ### The Chicago Housing/Rental Analysis we want to check to see if the pandemic had any influence on the housing and rental market in the city of Chicago.  The average housing price to purchase Pre-Pandemic between the years of 2017-2020 is $251,098.31.  Between those years the pricing of the houses was already going up in price yearly as there was a $40,000 price increase before the pandemic.  Post-Pandemic the average cost of the house is at $280,382.31 in the years between 2020-2023.  In those years the housing market is still moving upwards where between 2020 to 20023 there has been a $10,000 price up tick. The same can be said for the rental market as well as the pandemic did not stop the price up tick as well in which the the minimum rent before the pandemic was $1,683.28 and the maximum after the pandemic the max average price is 1,837.40, which is a $200 increase.  In regards to the analysis the pandemic did not have any bearing on the pricing in Chicago.  Even though there were rent freezes and stimulus checks during the pandemic, it did not stop the rise the cost in the housing or rental markets.
